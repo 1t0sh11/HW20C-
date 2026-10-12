@@ -1,0 +1,4 @@
+﻿  Plane.cpp
+C:\Users\дижедалбаеб\source\repos\HWOOP1\HWOOP1\Plane.cpp(63,1): warning C4715: Plane::sellTickets: значение возвращается не при всех путях выполнения
+C:\Users\дижедалбаеб\source\repos\HWOOP1\HWOOP1\Plane.cpp(73,1): warning C4715: Plane::returnTickets: значение возвращается не при всех путях выполнения
+  HWOOP1.vcxproj -> C:\Users\дижедалбаеб\source\repos\HWOOP1\x64\Debug\HWOOP1.exe
